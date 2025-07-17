@@ -1,9 +1,12 @@
 # Model-to-deployment-
 
-
-
-
-
+---
+ ## venv – NOT NEEDED IN DOCKER
+✅ You do not need to activate or use venv when using Docker. The Docker container has its own isolated environment.
+``` bash
+rm -rf venv
+```
+---
 ✅ Difference in Docker Desktop and Docker Hub 
 ---
 ## ✅ Docker vs Docker Hub (Real-World Analogy)
